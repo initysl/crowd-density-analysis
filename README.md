@@ -7,7 +7,8 @@ A real-time computer vision system that monitors crowd density, detects bottlene
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8-red)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-![Demo](docs/assets/demotwo.mp4)
+<video src="docs/assets/demotwo.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
 ## Project Overview
 
