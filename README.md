@@ -91,7 +91,7 @@ Built with YOLOv8 for person detection, ByteTrack for multi-object tracking, and
 - **ByteTrack** - Multi-object tracking algorithm
 - Inspired by crowd safety research following the Astroworld tragedy
 
-** Disclaimer:** This system is for research and development purposes. Deployment in safety-critical environments requires thorough testing, validation, and integration with human oversight protocols.
+**Disclaimer:** This system is for research and development purposes. Deployment in safety-critical environments requires thorough testing, validation, and integration with human oversight protocols.
 
 ## License
 
