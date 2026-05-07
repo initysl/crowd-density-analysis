@@ -1,6 +1,3 @@
-
-
-
 # Crowd Density & Flow Analysis System
 
 A real-time computer vision system that monitors crowd density, detects bottlenecks, and identifies reverse flow patterns to prevent crowd disasters at events, stadiums, and public gatherings.
@@ -10,7 +7,7 @@ A real-time computer vision system that monitors crowd density, detects bottlene
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8-red)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-https://github.com/user-attachments/assets/b918e008-1efe-4e73-9645-7cd7fc988f83
+https://github.com/user-attachments/assets/94431a26-0bd3-482b-bb40-f35746ce4486
 
 ## Project Overview
 
