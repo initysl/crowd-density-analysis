@@ -22,7 +22,7 @@ This system analyzes surveillance footage to:
 - **Flag reverse flow** as an early panic indicator
 - **Generate real-time alerts** for critical conditions
 
-Built with YOLOv8 for person detection, ByteTrack for multi-object tracking, and custom flow analysis algorithms.
+Built with YOLOv8; Supervision for person detection, ByteTrack for multi-object tracking, and custom flow analysis algorithms.
 
 ---
 
