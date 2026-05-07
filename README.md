@@ -1,4 +1,4 @@
-# 🚨 Crowd Density & Flow Analysis System
+# Crowd Density & Flow Analysis System
 
 A real-time computer vision system that monitors crowd density, detects bottlenecks, and identifies reverse flow patterns to prevent crowd disasters at events, stadiums, and public gatherings.
 
@@ -7,9 +7,9 @@ A real-time computer vision system that monitors crowd density, detects bottlene
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8-red)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
----
+## ![Demo](docs/assets/demoone.mp4)
 
-## 🎯 Project Overview
+## Project Overview
 
 This system analyzes surveillance footage to:
 
@@ -23,16 +23,11 @@ Built with YOLOv8 for person detection, ByteTrack for multi-object tracking, and
 
 ---
 
-## 🎥 Demo
-
-![Demo](docs/assets/demoone.mp4)
-![Demo](docs/assets/demotwo.mp4)
-
 > **Sample Output:** Aerial surveillance footage showing real-time density heatmap overlay with color-coded zones (green = safe, yellow = caution, red = critical), bottleneck detection (magenta borders), and reverse flow warnings (orange borders).
 
 ---
 
-## ✨ Features
+## Features
 
 ### Detection & Tracking
 
@@ -66,7 +61,7 @@ Built with YOLOv8 for person detection, ByteTrack for multi-object tracking, and
 
 ---
 
-## 🎓 Use Cases
+## Use Cases
 
 ### Event Safety
 
@@ -86,15 +81,15 @@ Built with YOLOv8 for person detection, ByteTrack for multi-object tracking, and
 - Crowd simulation validation
 - Emergency evacuation planning
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Ultralytics YOLOv8** - Object detection framework
 - **Roboflow Supervision** - Computer vision utilities
 - **ByteTrack** - Multi-object tracking algorithm
 - Inspired by crowd safety research following the Astroworld tragedy
 
-**⚠️ Disclaimer:** This system is for research and development purposes. Deployment in safety-critical environments requires thorough testing, validation, and integration with human oversight protocols.
+** Disclaimer:** This system is for research and development purposes. Deployment in safety-critical environments requires thorough testing, validation, and integration with human oversight protocols.
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License.
